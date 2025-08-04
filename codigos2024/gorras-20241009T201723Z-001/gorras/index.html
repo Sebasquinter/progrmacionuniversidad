@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitio Web</title>
+    <link rel="stylesheet" href="CSS/normalize.css">
+    <link rel="stylesheet" href="CSS/index.css">
+</head>
+
+<body>
+
+    <header class="header">
+
+        <div class="menu container">
+            <a href="index.html" class="logo"><img src="imagenes/logo.jpeg"></a>
+            <input type="checkbox" id="menu" />
+            <label for="menu">
+                <img src="imagenes/menu.png" class="menu-icono" alt="menu">
+            </label>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#PRODUCTOS">Productos</a></li>
+                    <li><a href="#TESTIMONIOS">Testimonios</a></li>
+                    <li><a href="login.html">Iniciar Sesión</a></li>
+                </ul>
+            </nav>
+
+            <div>
+                <ul>
+                    <li class="submenu">
+                        <img id="img-carrito" src="imagenes/car.svg" alt="car">
+                        <div id="carrito">
+                            <table id="lista-carrito">
+                                <thead>
+                                    <tr>
+                                        <th>Imagen</th>
+                                        <th>Nombre</th>
+                                        <th>Precio</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+
+                            </table>
+                            <a href="#" id="vaciar-carrito" class="btn-3">Vaciar Carrito</a>
+                            <a href=" " id="Comprar" class="btn-3">Comprar</a>
+
+                        </div>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="header-content container">
+            <div class="header-txt">
+                <span>Bienvenido a nuestra tienda</span>
+                <h1>ofertas especiales</h1>
+                <p>
+                    En BABEL queremos que estés a la moda y con el mejor estilo, utilizando nuestros productos 
+                    de alta calidad , dándote los mejores precios por eso no te pierdas nuestra nuevas ofertas; 
+                    viste en grande, viste BABEL!
+                </p>
+                <div class="butons">
+                    <a href="#" class="btn-1">información</a>
+                    <a href="#" class="btn-1">Leer más</a>
+                </div>
+            </div>
+
+            <div class="header-img">
+                <img src="imagenes/mode5.jpeg" alt="">
+            </div>
+        </div>
+
+    </header>
+
+
+    <section class="oferts container">
+
+        <div class="ofert-1 b1">
+            <div class="ofert-txt">
+                <h3>EDICION BLUE LA MLB</h3>
+                <a href="#">Leer más</a>
+            </div>
+            <div class="ofert-img">
+                <img src="imagenes/mode1.jpeg" alt="">
+            </div>
+        </div>
+
+        <div class="ofert-1 b2">
+            <div class="ofert-txt">
+                <h3>NY EDICION CHAMPIONS</h3>
+                <a href="#">Leer más</a>
+            </div>
+            <div class="ofert-img">
+                <img src="imagenes/mode9.jpeg" alt="">
+            </div>
+        </div>
+
+        <div class="ofert-1 b3">
+            <div class="ofert-txt">
+                <h3>GORRA BEISBOLERA RINOS AND SP</h3>
+                <a href="#">Leer más</a>
+            </div>
+            <div class="ofert-img">
+                <img src="imagenes/mode10.jpeg" alt="">
+            </div>
+        </div>
+
+    </section>
+
+
+    <main class="products container" id="PRODUCTOS">
+
+        <h2>Productos</h2>
+
+        <div class="box-container" id="lista-1">
+            <div class="box">
+                <img src="imagenes/mode8.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era NY YANKEES </h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="1">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode2.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era BOSTON AND LA DODGERS</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="2">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode3.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era HOUSTON ASTROS</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="3">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode4.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era LA DODGERS(rojo)</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="4">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode6.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era NBA CHICAGO BULLS</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="5">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode7.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era mega exclusivity</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$60.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="6">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode11.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era BROKLYN NY AND TOTONTO BLACK</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="7">Agregar Al Carrito</a>
+                </div>
+            </div>
+            
+            <div class="box">
+                <img src="imagenes/mode12.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era PITTSBURGH PIRATES</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="8">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode13.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era ATLANTA BRAVES ALL STAR AND SAN DIEGO</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$38.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="9">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode14.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era PITTSBURGH PIRATES YELLOW</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$38.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="10">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode15.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era BAEZ x BLESSD</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$65.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="11">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode16.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era LAKERS LA BLACK,PURPLE</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="12">Agregar Al Carrito</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="imagenes/mode17.jpeg" alt="">
+                <div class="product-txt">
+                    <h3>Gorra new era OAKLAND ATHLETICS</h3>
+                    <p>Calidad Premium</p>
+                    <p class="precio">$45.000</p>
+                    <a href="#" class="agregar-carrito btn-3" data-id="13">Agregar Al Carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="btn-2" id="load-more">Cargar Más</div>
+
+    </main>
+
+
+    <section class="testimonial container" id="TESTIMONIOS">
+        <span>testimoniales</span>
+        <h2>Que Opinan Nuestros Clientes</h2>
+        <div class="testimonial-content">
+
+            <div class="testimonial-1">
+                <p>El tiempo de entrega me parecio perfecto ademas de que el paquete llego en excelente estado 
+                    y con una excelente presentacion, comprar en esta tienda es comprar seguro 
+                    para tus bolsillo y tu estilo.
+                </p>
+                <img src="imagenes/starts.png" alt="">
+                <h4>Carlos Aranda</h4>
+            </div>
+
+            <div class="testimonial-1">
+                <p>Cumplen con lo prometido gorras de excelente calidad, buena horma, el pedido no tardo tanto
+                    el precio me parecieron buenos y accesibles, aprovechar cuadno existan ofertas y comprar 
+                    el modelo que mas de haya gustado, los recomiendo mucho.
+                </p>
+                <img src="imagenes/starts.png" alt="">
+                <h4>Felipe Salazar</h4>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-links">
+                
+                <div class="link-img">
+                    <img src="imagenes/logo.jpeg" alt="">
+                    <div class="footer-content">
+                        <p>
+                           La mejor página de ventas de gorras beisboleras.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="link">
+                    <h3>ENLACES IMPORTANTES</h3>
+                    <ul>
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#PRODUCTOS">Productos</a></li>
+                        <li><a href="#TESTIMONIOS">Testimonios</a></li>
+                        <li><a href="login.html">Iniciar Sesión</a></li>
+                        <li><a href="login.html">Registrese Ahora</a></li>
+                    </ul>
+                </div>
+
+                <div class="link">
+                    <h3>REDES SOCIALES</h3>
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">WhatsApp</a></li>
+                        <li><a href="#">Linkedin</a></li>
+                        <li><a href="#">Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="JAVASCRIP/index.js"></script>
+</body>
+</html>

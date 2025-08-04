@@ -1,0 +1,18 @@
+USUARIO 1
+
+### **Nivel 1: Preguntas Básicas**
+
+>¿Cuál fue el primer párroco?<Pbro. Jaime Montagut Vega<Pbro. Victor Manuel Lazo<Prbo. Jorge Alexander Perutty<Pbro. José Emin Mora<>¿Qué es el Catecismo de la Iglesia Católica?<Un resumen de las enseñanzas fundamentales de la Iglesia Católica<Un libro de historia<Un conjunto de oraciones<Un manual para la construcción de iglesias< >¿Cuántos mandamientos tiene la Ley de Dios según el Catecismo?<Diez<Ocho<Nueve<Once< >¿Qué es el pecado según el Catecismo de la Iglesia Católica?<Una ofensa a Dios<Un error sin importancia<Una superstición<Una tradición cultural< >¿Cuántos sacramentos reconoce la Iglesia Católica?<Siete<Tres<Cinco<Ocho<
+
+### **Nivel 2: Preguntas Intermedias**
+
+>¿Cuál es el primer mandamiento de la Ley de Dios?<Amarás a Dios sobre todas las cosas<No robarás<No matarás<Honrarás a tu padre y a tu madre< >¿Qué sacramento se conoce como "la puerta de los sacramentos"?<Bautismo<Confirmación<Eucaristía<Reconciliación< >¿Qué es la gracia santificante según el Catecismo?<Una gracia que nos hace partícipes de la naturaleza divina<Un sentimiento de felicidad<Un estado de perfección<Un regalo temporal de Dios< >Según el Catecismo, ¿qué significa ser "hecho a imagen de Dios"?<Que somos seres con libre albedrío y capacidad de amar<Que tenemos apariencia física similar a Dios<Que somos perfectos como Dios<Que somos inmortales<
+
+### **Nivel 3: Preguntas Avanzadas**
+
+>¿Qué enseña el Catecismo sobre la Eucaristía?<Es el cuerpo y la sangre de Cristo bajo las apariencias de pan y vino<Es solo un símbolo de la última cena<Es un recordatorio de la muerte de Cristo<Es una tradición antigua que ya no se practica< >¿Qué nos dice el Catecismo sobre el Espíritu Santo?<Es el Señor y dador de vida<Es solo una fuerza simbólica<Es el primer misterio de la fe<Es una figura histórica< >¿Qué parte del Catecismo se dedica a la vida en Cristo?<Tercera Parte<Primera Parte<Segunda Parte<Cuarta Parte< >¿Cuál es el propósito del sacramento de la Reconciliación según el Catecismo?<Para confesar los pecados y recibir el perdón de Dios<Para meditar en silencio<Para recibir una bendición especial<Para unirse en matrimonio<
+
+### **Nivel 4: Preguntas Expertas sobre la Estructura del Catecismo**
+
+>¿En cuántas partes está dividido el Catecismo de la Iglesia Católica?<Cuatro<Tres<Cinco<Seis< >¿Cuál es el tema principal de la primera parte del Catecismo de la Iglesia Católica?<La profesión de fe<La vida en Cristo<La liturgia y los sacramentos<La oración cristiana< >¿Qué parte del Catecismo aborda principalmente los sacramentos y la liturgia?<Segunda Parte<Primera Parte<Tercera Parte<Cuarta Parte< >¿En cuántos artículos está dividida la segunda parte del Catecismo, que trata sobre los sacramentos?<Siete<Diez<Doce<Catorce<
+
